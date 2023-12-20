@@ -12,10 +12,10 @@ Hey there! 👋 I'm Karthik Saligram, a 24-year-old tech aficionado originally f
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthik-07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
