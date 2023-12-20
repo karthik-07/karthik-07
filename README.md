@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik Saligram</h1>
 <h3 align="center">Tech lover and coding aficionado</h3>
-<img align="right" alt="Tech Whizz" width ="400" src="https://promptfiesta.com/wp-content/uploads/2023/08/Technology-Nerd-Illustration-Free-Midjourney-Prompt-5.png"></img>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-07&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-07" /> </p>
 
